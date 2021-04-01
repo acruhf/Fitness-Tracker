@@ -7,7 +7,7 @@ Keep track of your workout exercises and visualize them your progression with a 
 This app runs on express and mongoose Node.js modules.
 
 ## Live Demo
-[Deployed App](immense-river-40377.herokuapp.com)
+[Deployed App](https://immense-river-40377.herokuapp.com/)
 
 ## Installation
 Node.js v13+ and MongoDB 4.2.2+ are required in order to run this script.
